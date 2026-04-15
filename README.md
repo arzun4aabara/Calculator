@@ -67,4 +67,4 @@ A stunning, modern calculator built with Python and Tkinter featuring an iOS/mac
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/beautiful-calculator.git
+   git clone https://github.com/arzun4aabara/Calculator.git
